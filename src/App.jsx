@@ -1,10 +1,9 @@
-
+import Header from "./components/Header.jsx"
 function App() {
 
   return (
     <>
-      <p>alish</p>
-      <p>Nodir</p>
+      <Header />
     </>
   )
 }
