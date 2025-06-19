@@ -31,7 +31,7 @@ function Header() {
         </div>
       </motion.nav>
 
-      <div className="flex gap-20 items-center h-full">
+      <div className="flex justify-between items-center h-full">
         <motion.div
           initial={{ x: -80, opacity: 0 }}
           animate={{ x: 0, opacity: 1 }}
