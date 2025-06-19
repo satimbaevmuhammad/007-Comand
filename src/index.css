@@ -3,3 +3,6 @@
   padding:0;
   box-sizing:border-box;
 }
+.button{
+  box-shadow: -2px 22px 38px 0px #8EFF9A80 !important;
+}
