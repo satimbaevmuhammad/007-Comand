@@ -1,8 +1,14 @@
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-.button{
-  box-shadow: -2px 22px 38px 0px #8EFF9A80 !important;
+
+.card1 {
+  box-shadow: 2px 10px 30px 0px #0000001A;
+
+}
+
+.card {
+  box-shadow: 2px 10px 30px 0px  #0000001A;
 }
